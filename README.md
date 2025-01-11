@@ -17,4 +17,4 @@ A minimal, elegant countdown website for Lor & Liqi's wedding at Herdade do Frei
 - HTML5
 - CSS3
 - Vanilla JavaScript
-- Google Fonts (Montserrat) 
+- Google Fonts (Montserrat) # Countdown
